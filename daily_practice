@@ -1,1 +1,4 @@
 typeof <variable name>
+
+let var = 'Robert'
+const val = '2021'
