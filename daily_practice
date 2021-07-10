@@ -2,3 +2,7 @@ typeof <variable name>
 
 let var = 'Robert'
 const val = '2021'
+
+# formating a string
+  # const birthyear = 1970;
+  # console.log(`I was born in ${birthyear}`);
